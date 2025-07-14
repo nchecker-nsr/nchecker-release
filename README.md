@@ -1,3 +1,11 @@
+# 다운로드 후 설치방법
+
+추가 정보 클릭<br>
+<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/3c709b0c-88b7-4269-a096-15becbb29101" />
+
+실행 버튼 클릭<br>
+<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/9ac7d832-1f1f-41eb-a2f8-c656fde47a89" />
+
 # NCHECKER 소프트웨어 설치 및 사용권 계약서 (License Agreement)
 
 본 소프트웨어를 설치하기 전에 아래 내용을 주의 깊게 읽어주시기 바랍니다. 본 라이선스 계약서에 동의하셔야만 설치를 계속 진행하실 수 있습니다.
