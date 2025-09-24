@@ -1,16 +1,16 @@
 # 다운로드 후 설치방법
 
-1. 다운로드한 압축 파일  해제
+1. 다운로드한 압축 파일 해제
  - 압축 파일 해제를 위해서는 패스워드가 필요합니다. 패스워드는 관리자에게 문의하거나, 공지된 메일을 확인하세요.
 
 2. 설치 파일 실행
- - 설치 파일 실행 시 아래와 같은 경고가 
-
-추가 정보 클릭<br>
-<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/3c709b0c-88b7-4269-a096-15becbb29101" />
-
-실행 버튼 클릭<br>
-<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/9ac7d832-1f1f-41eb-a2f8-c656fde47a89" />
+ - 설치 파일 실행 시 아래와 같은 경고가 발생합니다.<br>
+<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/3c709b0c-88b7-4269-a096-15becbb29101" /><br>
+ - 위 화면 왼쪽 상단 부분에 추가 정보 클릭 합니다.<br>
+<img width="534" height="500" alt="image" src="https://github.com/user-attachments/assets/cb00932a-0cfc-49a3-8604-67722d8263a5" /><br>
+ - 위 화면 실행 버튼 클릭 합니다.<br>
+<img width="581" height="360" alt="image" src="https://github.com/user-attachments/assets/5d5c3ece-e7a1-41e8-831c-cdfd1a313160" /><br>
+ - 위 화면 동의함 버튼 클릭해 설치를 시작 합니다.<br>
 
 # NCHECKER 소프트웨어 설치 및 사용권 계약서 (License Agreement)
 
