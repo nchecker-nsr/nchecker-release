@@ -1,3 +1,8 @@
+# 다운로드 
+오른쪽 release에 페이지에서 다운로드 할 수 있습니다.
+<img width="312" height="103" alt="image" src="https://github.com/user-attachments/assets/947a36df-27a5-45af-a2d4-9094cbe7ac45" />
+[다운로드](https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.0/NCHECKER-v5.0.0-Setup.zip)
+
 # 다운로드 후 설치방법
 
 ## 1. 다운로드한 압축 파일 해제
