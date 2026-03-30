@@ -1,7 +1,7 @@
 # ■ 다운로드 방법
 오른쪽 Releases 페이지에서 다운로드 할 수 있습니다.<br>
 <img width="312" height="103" alt="image" src="https://github.com/user-attachments/assets/947a36df-27a5-45af-a2d4-9094cbe7ac45" /><br>
-[다운로드](https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.0/NCHECKER-v5.0.0-Setup.zip)<br>
+[다운로드 클릭!](https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.0/NCHECKER-v5.0.0-Setup.zip)<br>
 
 # ■ 다운로드 후 설치방법
 
@@ -17,7 +17,7 @@
  - '동의함' 버튼 클릭해 설치를 시작 합니다.<br>
 <img width="581" height="360" alt="image" src="https://github.com/user-attachments/assets/5d5c3ece-e7a1-41e8-831c-cdfd1a313160" /><br> 
 
-# NCHECKER 소프트웨어 설치 및 사용권 계약서 (License Agreement)
+# ■ NCHECKER 소프트웨어 설치 및 사용권 계약서 (License Agreement)
 
 본 소프트웨어를 설치하기 전에 아래 내용을 주의 깊게 읽어주시기 바랍니다. 본 라이선스 계약서에 동의하셔야만 설치를 계속 진행하실 수 있습니다.
 
