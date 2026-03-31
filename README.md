@@ -1,7 +1,23 @@
+# ■ 업데이트 이력
+## [5.0.1] - 2026-03-31
+### Fixed
+- 점검결과 작성(문항형) PDF 보고서 파일명이 `undefined`로 생성되는 문제 수정
+- 부처 타입 인증코드로 로그인 시 인증 실패하는 문제 수정
+- 날짜 필드 타입 호환성 수정
+- 시스템 초기화 완료 후 앱 재시작 버튼이 동작하지 않는 문제 수정
+- 체크리스트 항목 순번 데이터 오류 수정
+### Improved
+- 시스템 초기화 완료 시 앱 재시작 확인 다이얼로그 표시하도록 개선
+### Performance
+- PDF 보고서 생성 속도 개선
+  - Chromium 브라우저 인스턴스 재사용 (매번 새 프로세스 생성 → 싱글턴 유지)
+  - Chromium 실행파일 경로 캐싱
+  - 렌더링 대기 시간 단축 (1000ms → 300ms)
+## [5.0.0] - 2026-03-30
+- 최초 릴리스
+
 # ■ 다운로드 방법
-오른쪽 Releases 페이지에서 다운로드 할 수 있습니다.<br>
-<img width="312" height="103" alt="image" src="https://github.com/user-attachments/assets/947a36df-27a5-45af-a2d4-9094cbe7ac45" /><br>
-[NCHECKER v5.0.0 다운로드 클릭!](https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.0/NCHECKER-v5.0.0-Setup.zip)<br>
+[NCHECKER 최신버전 다운로드 클릭!](https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.1/NCHECKER-v5.0.1-Setup.zip)<br>
 
 # ■ 다운로드 후 설치방법
 
