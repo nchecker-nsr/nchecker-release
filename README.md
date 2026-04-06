@@ -1,4 +1,6 @@
 # ■ 데이터베이스 설치
+- 기존 버전 이용 가능
+
 ## 몽고DB(MongoDB) 다운로드
 - 다운로드 링크: https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.2.6-signed.msi
 
