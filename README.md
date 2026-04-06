@@ -1,4 +1,12 @@
-# ■ 업데이트 이력
+# ■ 데이터베이스 설치
+## 몽고DB(MongoDB) 다운로드
+- 다운로드 링크: https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.2.6-signed.msi
+
+## 몽고DB 설치
+- 다운로드한 .msi 실행 및 설치(Install MongoDB Compass 체크 해제)
+<img width="495" height="387" alt="image" src="https://github.com/user-attachments/assets/edce9c3c-edd3-4e9f-8196-99f83a553f3f" />
+
+# ■ NCHECKER 업데이트 이력
 ## [5.0.4] - 2026-04-06
 ### Fixed
 - 관리기관 소속 오류 수정
