@@ -101,7 +101,7 @@
 
 
 # ■ 다운로드 방법
-[NCHECKER 최신버전 다운로드 클릭!](https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.4/NCHECKER-v5.0.4-Setup.zip)<br>
+[NCHECKER 최신버전 다운로드 클릭!](https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.5/NCHECKER-v5.0.5-Setup.zip)<br>
 
 # ■ 다운로드 후 설치방법
 
