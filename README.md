@@ -10,6 +10,12 @@
 
 # ■ NCHECKER 업데이트 이력
 
+## [5.0.9] - 2026-06-08
+
+### Fixed
+
+- PDF 점검결과 요약 보고서의 "최근 5년간 점수 추이" 차트에 표시되는 연도별 점수가 「점검 결과 관리 > 관리시스템 목록」의 점수와 다르게 표시되던 문제 수정 — 두 화면이 항상 같은 산식(가점 포함, 100점 상한)으로 계산되도록 통일. 특히 가점 항목을 사용하는 시스템과 과거에 체크리스트·배점이 갱신된 시스템에서 두 값이 어긋나던 케이스가 해소됨
+
 ## [5.0.8] - 2026-05-06
 
 ### Added
@@ -164,7 +170,7 @@
 
 
 # ■ 다운로드 방법
-NCHECKER 최신버전 다운로드: https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.8/NCHECKER-v5.0.8-Setup.zip
+NCHECKER 최신버전 다운로드: https://github.com/nchecker-nsr/nchecker-release/releases/download/v5.0.9/NCHECKER-v5.0.9-Setup.zip
 
 # ■ 다운로드 후 설치방법
 
